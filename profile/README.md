@@ -5,7 +5,7 @@ Artificial intelligence projects of Ferdowsi University of Mashhad. The first se
 ## Group member information:
 Samaneh Naghdbishi
 - Computer Science FUM(98)
-- //
+- samaneh.naghdbishi@gmail.com
 
 Sajjad Ranjbar Yazdi 
 - Computer Science FUM(98)

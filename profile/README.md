@@ -13,7 +13,7 @@ Sajjad Ranjbar Yazdi
 
 Mahdi Salehi 
 - Computer Science FUM(98)
-- //
+- m.s13791017@gmail.com
 
 <p align="center">
 <img src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" alt="This will display an animated GIF" >

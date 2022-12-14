@@ -7,34 +7,34 @@ Samaneh Naghdbishi
 - Computer Science FUM(98)
 - samaneh.naghdbishi@gmail.com
 
-Sajjad Ranjbar Yazdi 
-- Computer Science FUM(98)
-- sajjadranjbaryazdi@gmail.com
-
-Mahdi Salehi 
-- Computer Science FUM(98)
-- m.s13791017@gmail.com
-
-<p align="center">
-<img src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" alt="This will display an animated GIF" >
-</p>
-
-
 <p align="center">
   
   [![Samaneh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nef3libata&theme=dracula)](https://github.com/Nef3libata)
 </p>
 
+Sajjad Ranjbar Yazdi 
+- Computer Science FUM(98)
+- sajjadranjbaryazdi@gmail.com
 
 <p align="center">
   
   [![Sajjad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=phantomf4321&theme=dracula)](https://github.com/phantomf4321)
 </p>
 
+Mahdi Salehi 
+- Computer Science FUM(98)
+- m.s13791017@gmail.com
+
 <p align="center">
   
   [![Mahdi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rhythmicbinary&theme=dracula)](https://github.com/Rhythmicbinary)
 </p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" alt="This will display an animated GIF" >
+</p>
+
+
 
 <!--
 

@@ -21,15 +21,18 @@ Mahdi Salehi
 
 
 <p align="center">
+  
   [![Samaneh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nef3libata&theme=dracula)](https://github.com/Nef3libata)
 </p>
 
 
 <p align="center">
+  
   [![Sajjad's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=phantomf4321&theme=dracula)](https://github.com/phantomf4321)
 </p>
 
 <p align="center">
+  
   [![Mahdi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rhythmicbinary&theme=dracula)](https://github.com/Rhythmicbinary)
 </p>
 

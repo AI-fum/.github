@@ -3,14 +3,6 @@
 Artificial intelligence projects of Ferdowsi University of Mashhad. The first semester of 1401-1402 (Dr. Mazloom)
 
 ## Group member information:
-Samaneh Naghdbishi
-- Computer Science FUM(98)
-- samaneh.naghdbishi@gmail.com
-
-<p align="center">
-  
-  [![Samaneh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nef3libata&theme=dracula)](https://github.com/Nef3libata)
-</p>
 
 Sajjad Ranjbar Yazdi 
 - Computer Science FUM(98)
